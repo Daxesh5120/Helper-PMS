@@ -9,7 +9,7 @@
     <a href="https://github.com/devaslanphp/project-management/releases/">
         <img src="https://img.shields.io/github/tag/devaslanphp/project-management?include_prereleases=&sort=semver&color=blue&style=for-the-badge" alt="GitHub tag">
     </a>
-    <a href="#license">
+<!--     <a href="#license">
         <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
     </a>
     <a href="https://github.com/devaslanphp/project-management/issues">
@@ -22,7 +22,7 @@
     <br/>
     <a href="https://hub.docker.com/r/eloufirhatim/helper/tags" title="Docker image">
         <img src="https://img.shields.io/docker/v/eloufirhatim/helper?label=Docker&logo=docker&style=for-the-badge" alt="Docker image">
-    </a>
+    </a> -->
 </p>
 
 # Introduction
@@ -141,20 +141,10 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 ## Sponsors
 
-<div>
-    <a href="https://github.com/moustou1993"><img src="https://avatars.githubusercontent.com/u/48994051?v=4" width="40" /></a>
-    <a href="https://github.com/matbgn"><img src="https://avatars.githubusercontent.com/u/13169819?v=4" width="40" /></a>
-</div>
+
 
 ## Contributors
 
-<div>
-    <a href="https://github.com/heloufir"><img src="https://avatars.githubusercontent.com/u/6197875?v=4" width="40" /></a>
-    <a href="https://github.com/mihaisolomon"><img src="https://avatars.githubusercontent.com/u/17908506?v=4" width="40" /></a>
-    <a href="https://github.com/TheZoker"><img src="https://avatars.githubusercontent.com/u/1368405?v=4" width="40" /></a>
-    <a href="https://github.com/JaccoVE"><img src="https://avatars.githubusercontent.com/u/34547046?v=4" width="40" /></a>
-    <a href="https://github.com/leozfr"><img src="https://avatars.githubusercontent.com/u/57966806?v=4" width="40" /></a>
-</div>
 
 ## Support us
 
